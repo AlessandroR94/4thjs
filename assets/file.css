@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.vendite {
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    padding-top: 150px;
+}
+
+.visibilita {
+    display: none;
+}
+
+.prezzi {
+    color: black;
+}
